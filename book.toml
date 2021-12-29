@@ -1,0 +1,6 @@
+[book]
+authors = ["mainrs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "jen generators"
